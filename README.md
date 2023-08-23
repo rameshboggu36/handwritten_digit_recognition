@@ -1,4 +1,4 @@
-You can find the application here https://gradcammnist-actrwjwdmy2abfkvoconaa.streamlit.app/
+You can find the application here https://handwrittenrecog.streamlit.app/
 # Instructions on how to run the Task-2 on the local setup
 - run these commands initially in the git bash
     - `git clone https://github.com/Bumpeet/gradCam_MNIST.git`
