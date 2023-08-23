@@ -1,0 +1,5 @@
+torch
+torchvision
+grad-cam
+Pillow
+streamlit
