@@ -1,5 +1,5 @@
 You can find the application here https://handwrittenrecog.streamlit.app/
-# Instructions on how to run the Task-2 on the local setup
+# Instructions on how to run the app.py on the local setup
 - you can clone this repository onto your local machine by using the following link:
     - `https://github.com/rameshboggu36/handwritten_digit_recognition.git`
 
